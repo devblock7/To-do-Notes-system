@@ -17,7 +17,7 @@
               style="line-height: 28px; background-color: white"
               maxlength="255"
               class="form-control"
-              placeholder="Insert task name"
+              placeholder="Task description"
               v-model="toUpdate.description"
               required
               cols="2"
